@@ -12,7 +12,7 @@ A **fully responsive Apple clone website** built using **React**, **Tailwind CSS
 
 ## Tech Stack
 
-- **Frontend:** React
+- **Frontend:** React.js
 - **Styling:** Tailwind CSS, CSS, HTML
 - **Build Tool:** Vite / Create React App (depending on your setup) 
 
